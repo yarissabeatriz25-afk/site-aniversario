@@ -1,5 +1,5 @@
 # site-aniversario
-Site de aniversário para Eliane
+
 [index.html](https://github.com/user-attachments/files/22628758/index.html)<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -56,14 +56,14 @@ Site de aniversário para Eliane
   <header>
     <h1>Feliz Aniversário, Eliane ❤️</h1>
     <p>Um presente cheio de amor, feito só para você</p>
-  </header>![eli e eu](https://github.com/user-attachments/assets/4ed78724-4b25-43e8-8985-c716d650fa14)
+
 
 
   <div class="section">
     <img src="eli-e-eu.jpeg" alt="Nós duas">
     <p class="message">Desde o dia em que nossas vidas se cruzaram, eu descobri o verdadeiro significado de <span class="highlight">amor, parceria e felicidade</span>. Cada sorriso seu ilumina meus dias e cada abraço seu é o meu lar. Eu lembro de cada detalhe da nossa história, das conversas intermináveis, dos sonhos compartilhados, das dificuldades superadas juntas e de todas as vezes em que você me mostrou que o amor verdadeiro existe.</p>
   </div>
-![eli](https://github.com/user-attachments/assets/c080b1f2-c312-4822-92a7-943eb880f83a)
+
 
   <div class="section">
     <img src="eli.jpeg" alt="Momentos felizes">
