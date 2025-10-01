@@ -1,10 +1,4 @@
-# site-aniversario
 
-[index.html](https://github.com/user-attachments/files/22628758/index.html)<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Feliz Aniversário, Meu Amor</title>
   <style>
     body {
@@ -54,14 +48,13 @@
 </head>
 <body>
   <header>
-    <h1>Feliz Aniversário, Eliane ❤️</h1>
+    <h1>Feliz Aniversário, Eliante Torres ❤️</h1>
     <p>Um presente cheio de amor, feito só para você</p>
 
 
-
   <div class="section">
-    <img src="eli-e-eu.jpeg" alt="Nós duas">
-    <p class="message">Desde o dia em que nossas vidas se cruzaram, eu descobri o verdadeiro significado de <span class="highlight">amor, parceria e felicidade</span>. Cada sorriso seu ilumina meus dias e cada abraço seu é o meu lar. Eu lembro de cada detalhe da nossa história, das conversas intermináveis, dos sonhos compartilhados, das dificuldades superadas juntas e de todas as vezes em que você me mostrou que o amor verdadeiro existe.</p>
+  
+   <p class="message">Desde o dia em que nossas vidas se cruzaram, eu descobri o verdadeiro significado de <span class="highlight">amor, parceria e felicidade</span>. Cada sorriso seu ilumina meus dias e cada abraço seu é o meu lar. Eu lembro de cada detalhe da nossa história, das conversas intermináveis, dos sonhos compartilhados, das dificuldades superadas juntas e de todas as vezes em que você me mostrou que o amor verdadeiro existe.</p>
   </div>
 
 
