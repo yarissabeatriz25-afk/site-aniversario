@@ -1,54 +1,6 @@
 
-  <title>Feliz Aniversário, Meu Amor</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(135deg, #ffdee9, #b5fffc);
-      margin: 0;
-      padding: 0;
-      color: #333;
-      text-align: center;
-    }
-    header {
-      padding: 40px 20px;
-    }
-    header h1 {
-      font-size: 2.5rem;
-      color: #e60073;
-    }
-    .section {
-      padding: 30px 15px;
-      max-width: 800px;
-      margin: auto;
-    }
-    .section img {
-      max-width: 100%;
-      border-radius: 20px;
-      margin: 20px 0;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    }
-    .message {
-      font-size: 1.2rem;
-      line-height: 1.6;
-      margin: 20px 0;
-      color: #444;
-    }
-    .highlight {
-      color: #e60073;
-      font-weight: bold;
-    }
-    footer {
-      margin-top: 50px;
-      padding: 20px;
-      font-size: 1rem;
-      background: rgba(255,255,255,0.5);
-      border-top: 2px solid #e60073;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Feliz Aniversário, Eliane Torres ❤️</h1>
+  
+  <h1>Feliz Aniversário, Minha Eliane Torres ❤️</h1>
     <p>Um presente cheio de amor, feito só para você</p>
 
 
