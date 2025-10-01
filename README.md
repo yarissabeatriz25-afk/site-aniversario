@@ -48,7 +48,7 @@
 </head>
 <body>
   <header>
-    <h1>Feliz Aniversário, Eliante Torres ❤️</h1>
+    <h1>Feliz Aniversário, Eliane Torres ❤️</h1>
     <p>Um presente cheio de amor, feito só para você</p>
 
 
